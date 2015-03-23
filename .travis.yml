@@ -20,3 +20,4 @@ deploy:
   file: intellij-haxe.jar
   on:
     repo: yanhick/intellij-haxe-nightly-builds
+    branch: master
